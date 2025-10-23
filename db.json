@@ -2,6 +2,7 @@
   "categories": [
     {
       "category": "Smartphones",
+      "image": "https://media-wallmantra.com/product/original/product_placeholder.webp",
       "products": [
         {
           "id": 1,
@@ -27,6 +28,7 @@
     },
     {
       "category": "Earbuds & Headphones",
+      "image": "https://media-wallmantra.com/product/original/product_placeholder.webp",
       "products": [
         {
           "id": 3,
@@ -52,6 +54,7 @@
     },
     {
       "category": "Chargers & Cables",
+      "image": "https://media-wallmantra.com/product/original/product_placeholder.webp",
       "products": [
         {
           "id": 5,
@@ -77,6 +80,7 @@
     },
     {
       "category": "Smartwatches",
+      "image": "https://media-wallmantra.com/product/original/product_placeholder.webp",
       "products": [
         {
           "id": 7,
