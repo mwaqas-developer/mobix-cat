@@ -1,0 +1,104 @@
+{
+  "categories": [
+    {
+      "category": "Smartphones",
+      "products": [
+        {
+          "id": 1,
+          "title": "Acer Aspire Lite 12th Gen Intel Core",
+          "image": "https://example.com/images/acer-aspire-lite.png",
+          "discount": "20%",
+          "rating": 4.2,
+          "reviews": 120,
+          "price": 120.00,
+          "old_price": 150.00
+        },
+        {
+          "id": 2,
+          "title": "Samsung Galaxy S24 Ultra",
+          "image": "https://example.com/images/samsung-galaxy-s24-ultra.png",
+          "discount": "15%",
+          "rating": 4.8,
+          "reviews": 310,
+          "price": 850.00,
+          "old_price": 999.00
+        }
+      ]
+    },
+    {
+      "category": "Earbuds & Headphones",
+      "products": [
+        {
+          "id": 3,
+          "title": "Apple AirPods Pro (2nd Gen)",
+          "image": "https://example.com/images/apple-airpods-pro.png",
+          "discount": "10%",
+          "rating": 4.7,
+          "reviews": 540,
+          "price": 225.00,
+          "old_price": 250.00
+        },
+        {
+          "id": 4,
+          "title": "Sony WH-1000XM5 Noise Cancelling Headphones",
+          "image": "https://example.com/images/sony-wh1000xm5.png",
+          "discount": "25%",
+          "rating": 4.9,
+          "reviews": 670,
+          "price": 299.00,
+          "old_price": 399.00
+        }
+      ]
+    },
+    {
+      "category": "Chargers & Cables",
+      "products": [
+        {
+          "id": 5,
+          "title": "Anker 30W USB-C Charger",
+          "image": "https://example.com/images/anker-30w.png",
+          "discount": "5%",
+          "rating": 4.5,
+          "reviews": 220,
+          "price": 18.99,
+          "old_price": 19.99
+        },
+        {
+          "id": 6,
+          "title": "Belkin 3-in-1 Wireless Charging Station",
+          "image": "https://example.com/images/belkin-wireless-charger.png",
+          "discount": "30%",
+          "rating": 4.6,
+          "reviews": 350,
+          "price": 69.99,
+          "old_price": 99.99
+        }
+      ]
+    },
+    {
+      "category": "Smartwatches",
+      "products": [
+        {
+          "id": 7,
+          "title": "Apple Watch Series 9 GPS 41mm",
+          "image": "https://example.com/images/apple-watch-series9.png",
+          "discount": "18%",
+          "rating": 4.8,
+          "reviews": 420,
+          "price": 329.00,
+          "old_price": 399.00
+        },
+        {
+          "id": 8,
+          "title": "Samsung Galaxy Watch 6 Classic",
+          "image": "https://example.com/images/galaxy-watch6-classic.png",
+          "discount": "12%",
+          "rating": 4.6,
+          "reviews": 280,
+          "price": 289.00,
+          "old_price": 329.00
+        }
+      ]
+    }
+  ]
+}
